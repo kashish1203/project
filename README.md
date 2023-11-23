@@ -56,10 +56,10 @@ _ML pipeline_<br/>
 -> Splitting of data<br/>
 -> Scaling of data<br/>
 -> Model Fitting<br/>
-               → Linear Regression<br/>
-               → Decision tree<br/>
-               → Random Forest Regression<br/>
-               → ANN<br/>
+               → Linear Regression <br/>
+               → Decision tree <br/>
+               → Random Forest Regression <br/>
+               → ANN <br/>
 -> Model Evaluation and Testing<br/>
 
 _Problem Statement :_<br/>
