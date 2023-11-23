@@ -13,12 +13,12 @@ PROJECT PIPELINE
 
 -> Data Visualization -<br/>
 
- --Distribution plots 
- --Scatter Plots 
- --Box Plots
- --Count Plots
- --Barplots
- --Heatmap
+ --Distribution plots   
+ --Scatter Plots   
+ --Box Plots  
+ --Count Plots  
+ --Barplots  
+ --Heatmap  
  
 -> Feature Extraction<br/> 
 -> Model Training and Testing<br/>
