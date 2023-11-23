@@ -196,7 +196,7 @@ _Description_ : This dataset provides comprehensive information about ODI cricke
 -> Prediction For Winner<br/>
 
 We have used two approaches:<br/> 
-**1)Considering the problem statement as Multiclass Classification task **<br/>
+**1)Considering the problem statement as Multiclass Classification task** <br/>
 _**File : Final_ICC_WC23_predictions.ipynb**_<br/>
 Prediction :<br/> 
 -->**Finalists**:<br/>
