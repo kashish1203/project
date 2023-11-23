@@ -12,16 +12,12 @@ PROJECT PIPELINE
 -> Data Preprocessing - checked null values, attribute types, duplicate values etc
 
 -> Data Visualization -<br/>
- --Distribution plots  
- 
+
+ --Distribution plots 
  --Scatter Plots 
- 
  --Box Plots
- 
  --Count Plots
- 
  --Barplots
- 
  --Heatmap
  
 -> Feature Extraction<br/> 
